@@ -38,13 +38,13 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.smokelaboratory:freedom:0.1.0'
+    implementation 'com.github.smokelaboratory:freedom:1.0.0'
 }
 ```
 
 ## Usage
 
-See [Wiki](https://github.com/smokelaboratory/freedom/wiki) on how to get started with **EasyIAP**.
+See [Wiki](https://github.com/smokelaboratory/freedom/wiki) on how to get started with **Freedom**.
 
 ### Pull Request
 To generate a pull request, please consider following [Pull Request Template](https://github.com/smokelaboratory/freedom/blob/master/PULL_REQUEST_TEMPLATE.md).
