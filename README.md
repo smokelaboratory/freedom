@@ -8,11 +8,12 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge)](https://www.android.com/)
 [![API](https://img.shields.io/badge/API-21%2B-F44336.svg?style=for-the-badge)](https://android-arsenal.com/api?level=21)
 
-Freedom is an Android library to help you with all aspects of runtime permission managment.
+Freedom is an Android library to help you with all aspects of runtime permission management.
 
 ## Features
 
 * Written in Kotlin
+* Based on ActivityResultLauncher
 * Built using Kotlin DSL
 * No boilerplate code
 * Easy initialisation
@@ -38,7 +39,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.smokelaboratory:freedom:1.0.0'
+    implementation 'com.github.smokelaboratory:freedom:2.0.0'
 }
 ```
 
@@ -65,7 +66,7 @@ Please have a look at [Contributing Guidelines](https://github.com/smokelaborato
 # License
 
 ```
-   Copyright © 2020 smokelaboratory
+   Copyright © 2021 smokelaboratory
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
