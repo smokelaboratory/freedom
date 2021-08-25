@@ -1,4 +1,4 @@
-package com.smokelaboratoy.freedom
+package com.smokelaboratory.freedom
 
 import android.app.Activity
 import android.content.Intent
