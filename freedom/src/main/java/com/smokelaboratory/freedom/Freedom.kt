@@ -57,7 +57,6 @@ class Freedom {
                         freedomStatusMap[permission] =
                             FreedomStatus.DENIED
                 }
-
             }
 
             response?.let {
