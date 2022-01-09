@@ -51,11 +51,6 @@ dependencies {
     implementation "androidx.compose.material:material:$compose_version"
 }
 
-task androidSourcesJar(type: Jar) {
-    classifier 'sources'
-    from android.sourceSets.main.java.srcDirs
-}
-
 project.afterEvaluate {
     publishing {
         publications {
