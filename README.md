@@ -39,7 +39,7 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.smokelaboratory:freedom:2.0.1'
+    implementation 'com.github.smokelaboratory:freedom:3.0.0'
 }
 ```
 
