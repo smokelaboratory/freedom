@@ -1,4 +1,4 @@
-package com.smokelaboratory.freedom
+package com.smokelaboratory.sample
 
 import android.Manifest
 import android.os.Bundle
@@ -9,6 +9,8 @@ import androidx.compose.foundation.clickable
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import com.smokelaboratory.freedom.Freedom
+import com.smokelaboratory.freedom.rememberFreedomRequester
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
