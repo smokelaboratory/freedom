@@ -12,7 +12,8 @@ Freedom is an Android library to help you with all aspects of runtime permission
 
 ## Features
 
-* Written in Kotlin
+* Written in Kotlin 
+* Support for Jetpack Compose
 * Based on ActivityResultLauncher
 * Built using Kotlin DSL
 * No boilerplate code
